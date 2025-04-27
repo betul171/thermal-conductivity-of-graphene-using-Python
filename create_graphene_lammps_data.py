@@ -12,7 +12,7 @@ atom_style atomic
 dimension 3
 boundary p p p 
 atom_style atomic
-region box block - 50 0 100 -50 50
+region box block -5 5 0 10 -50 50
 create_box 1 box
 mass 1 12.011
 lattice custom 1.42 a1 3 0 0 a2 0 1.732 0 a3 0 0 20 &
