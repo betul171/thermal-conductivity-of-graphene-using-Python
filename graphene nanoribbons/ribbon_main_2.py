@@ -1,4 +1,4 @@
-# Energy minimization was made 
+### ENERGY MINIMIZATION WAS MADE. PHONON DISPERSION PLOT LOOKS GOOD.
 import numpy as np
 import math
 from scipy.integrate import quad
